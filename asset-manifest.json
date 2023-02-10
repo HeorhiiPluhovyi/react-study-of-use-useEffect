@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-study-of-use-useEffect/static/css/main.698e4aaf.css",
+    "main.js": "/react-study-of-use-useEffect/static/js/main.e87d60fa.js",
+    "static/js/787.45a9aca3.chunk.js": "/react-study-of-use-useEffect/static/js/787.45a9aca3.chunk.js",
+    "index.html": "/react-study-of-use-useEffect/index.html",
+    "main.698e4aaf.css.map": "/react-study-of-use-useEffect/static/css/main.698e4aaf.css.map",
+    "main.e87d60fa.js.map": "/react-study-of-use-useEffect/static/js/main.e87d60fa.js.map",
+    "787.45a9aca3.chunk.js.map": "/react-study-of-use-useEffect/static/js/787.45a9aca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.698e4aaf.css",
+    "static/js/main.e87d60fa.js"
+  ]
+}
